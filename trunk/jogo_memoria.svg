@@ -290,9 +290,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="439.69317"
-     inkscape:cy="432.57428"
+     inkscape:zoom="1.3210688"
+     inkscape:cx="372.04724"
+     inkscape:cy="462.85279"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -325,31 +325,31 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:url(#radialGradient3179);fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:url(#radialGradient3179);fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.3"
        d="M 389.375 333.53125 L 389.375 445.28125 C 421.96419 452.22559 447.45153 478.34755 453.4375 511.28125 L 567.34375 511.28125 C 567.29305 413.09666 487.69647 333.53125 389.5 333.53125 C 389.4582 333.53125 389.4167 333.53122 389.375 333.53125 z "
        id="path2985-87"
-       inkscape:export-filename="/home/gbf/Projetos/memoria/verde.png"
+       inkscape:export-filename="/home/gbf/Projetos/memoria/verde_.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="fill:url(#radialGradient3176);fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:url(#radialGradient3176);fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.3"
        d="M 453.4375 541.0625 C 447.45153 573.99838 421.96419 600.11566 389.375 607.0625 L 389.375 719.03125 C 389.4167 719.03128 389.4582 719.03125 389.5 719.03125 C 487.72778 719.0313 567.34375 639.38404 567.34375 541.15625 C 567.34375 541.12495 567.34377 541.0938 567.34375 541.0625 L 453.4375 541.0625 z "
        id="path2985-8"
-       inkscape:export-filename="/home/gbf/Projetos/memoria/amarelo.png"
+       inkscape:export-filename="/home/gbf/Projetos/memoria/amarelo_.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="fill:url(#radialGradient3211);fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:url(#radialGradient3211);fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.3"
        d="M 176.75 541.0625 C 176.74998 541.0938 176.75 541.12495 176.75 541.15625 C 176.75 639.34228 256.32977 718.96358 354.5 719.03125 L 354.5 607.03125 C 322.01672 600.01182 296.63053 573.92206 290.65625 541.0625 L 176.75 541.0625 z "
        id="path2985-3"
-       inkscape:export-filename="/home/gbf/Projetos/memoria/azul.png"
+       inkscape:export-filename="/home/gbf/Projetos/memoria/azul_.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="fill:url(#radialGradient3188);fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:url(#radialGradient3188);fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.3"
        d="M 354.5 333.34375 C 256.36109 333.41135 176.80074 412.9509 176.75 511.09375 L 290.71875 511.09375 C 296.7571 478.32711 322.08026 452.31568 354.5 445.3125 L 354.5 333.34375 z "
        id="path2985-38"
-       inkscape:export-filename="/home/gbf/Projetos/memoria/vermelho.png"
+       inkscape:export-filename="/home/gbf/Projetos/memoria/vermelho_.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
