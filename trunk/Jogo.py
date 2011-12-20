@@ -54,7 +54,5 @@ class Simon():
     def escolher_cor(self):
         return random.choice(("azul", "vermelho", "verde", "amarelo"))  
 
-jogo = Simon()
-jogo.comecar()
 
         
