@@ -3,10 +3,10 @@ Created on 20/12/2011
 
 @author: gbf
 '''
-import sys, pygame
+import sys, pygame, random
 pygame.init()
 
-size = width, height = 640, 480
+size = width, height = 396, 396
 speed = [1, 0]
 black = 0, 0, 0
 
@@ -31,10 +31,14 @@ amarelo_rect = amarelo_rect.move(208,208)
 
 while 1:
         for event in pygame.event.get():
-                if event
+                if event.type == pygame.MOUSEBUTTONDOWN :
+                    print event.pos, event.button
+                    print vermelho_rect.collidepoint(event.pos)
+                    
                 if pygame.key.get_pressed()[pygame.K_RETURN] :
                     # Iniciar o jogo
                     lista = []
+                    
                         
                 if event.type == pygame.QUIT: sys.exit()
                 
@@ -44,4 +48,7 @@ while 1:
         screen.blit(azul, azul_rect)
         screen.blit(amarelo, amarelo_rect)
         pygame.display.flip()
+        
+def escolher_cor():
+    return random.choice(("azul", "vermelho", "verde", "amarelo"))  
 
